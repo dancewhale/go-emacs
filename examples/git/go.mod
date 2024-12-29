@@ -1,10 +1,10 @@
-module github.com/sigma/go-emacs/examples/git
+module github.com/dancewhale/go-emacs/examples/git
 
 go 1.16
 
-replace github.com/sigma/go-emacs => ../..
+replace github.com/dancewhale/go-emacs => ../..
 
 require (
 	github.com/libgit2/git2go/v28 v28.8.14
-	github.com/sigma/go-emacs v0.0.1
+	github.com/dancewhale/go-emacs v0.0.1
 )

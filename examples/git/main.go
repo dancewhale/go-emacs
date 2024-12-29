@@ -19,8 +19,8 @@ package main
 
 import (
 	git "github.com/libgit2/git2go/v28"
-	emacs "github.com/sigma/go-emacs"
-	_ "github.com/sigma/go-emacs/gpl-compatible"
+	emacs "github.com/dancewhale/go-emacs"
+	_ "github.com/dancewhale/go-emacs/gpl-compatible"
 )
 
 func init() {

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"log"
 
-	emacs "github.com/sigma/go-emacs"
-	_ "github.com/sigma/go-emacs/gpl-compatible"
+	emacs "github.com/dancewhale/go-emacs"
+	_ "github.com/dancewhale/go-emacs/gpl-compatible"
 )
 
 func init() {

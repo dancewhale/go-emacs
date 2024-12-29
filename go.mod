@@ -1,3 +1,3 @@
-module github.com/sigma/go-emacs
+module github.com/dancewhale/go-emacs
 
 go 1.16

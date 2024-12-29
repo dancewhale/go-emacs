@@ -24,8 +24,8 @@ import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/clientcmd"
 
-	emacs "github.com/sigma/go-emacs"
-	_ "github.com/sigma/go-emacs/gpl-compatible"
+	emacs "github.com/dancewhale/go-emacs"
+	_ "github.com/dancewhale/go-emacs/gpl-compatible"
 )
 
 func init() {
